@@ -1,0 +1,1 @@
+# next-tina-strapi
